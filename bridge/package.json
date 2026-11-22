@@ -1,0 +1,8 @@
+{
+  "name": "neko-trades-bridge",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@mathieuc/tradingview": "github:Mathieu2301/Tradingview-API"
+  }
+}

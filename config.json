@@ -1,0 +1,18 @@
+{
+    "timeframe": "5",
+    "assets": [
+        "BINANCE:BTCUSDT",
+        "BINANCE:ETHUSDT",
+        "BINANCE:SOLUSDT",
+        "OANDA:XAUUSD",
+        "OANDA:XAGUSD"
+    ],
+    "asset_labels": ["BTC/USD", "ETH/USD", "SOL/USD", "XAU/USD", "XAG/USD"],
+    "candle_count": 300,
+    "risk_reward_ratio": 1.5,
+    "atr_multiplier_sl": 1.5,
+    "support_resistance_lookback": 50,
+    "sr_tolerance_pct": 1.0,
+    "poll_interval_sec": 10,
+    "csv_path": "trades_log.csv"
+}
